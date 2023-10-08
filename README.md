@@ -1,1 +1,1 @@
-# Ethereum-Phishing-Transaction-Detection
+# Ethereum Phishing Transaction Detection
